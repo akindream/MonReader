@@ -82,12 +82,12 @@ Users can upload documents and receive high-quality, OCR-processed text automati
 git clone https://github.com/your-username/monreader.git
 cd monreader
 
-📬 Contact
-For questions or collaboration inquiries, feel free to reach out:
+## 📫 Contact
 
-📧 Email: [your.email@example.com]
+**Project Maintainer:** \[Ernest Braimoh]
 
-🌐 LinkedIn: [your-linkedin-profile]
+📧 Medium: [Ernest Braimoh](https://medium.com/@akindream/building-monreader-smart-page-flip-detection-meets-powerful-ocr-0b7fe62886a0)
 
-📜 License
-This project is released under the MIT License.
+🔗 LinkedIn: [Ernest Braimoh](https://www.linkedin.com/posts/ernest-braimoh_ai-computervision-machinelearning-activity-7357017049199460352-bmih?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJ5f84BSF16YQBlNnzy86sMhIc99PdU8l0)
+
+🔗 Youtube: [Ernest Braimoh]()
