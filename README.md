@@ -86,8 +86,8 @@ cd monreader
 
 **Project Maintainer:** \[Ernest Braimoh]
 
-📧 Medium: [Ernest Braimoh](https://medium.com/@akindream/building-monreader-smart-page-flip-detection-meets-powerful-ocr-0b7fe62886a0)
+📧 Medium: [Ernest Braimoh]_(https://medium.com/@akindream/building-monreader-smart-page-flip-detection-meets-powerful-ocr-0b7fe62886a0)
 
-🔗 LinkedIn: [Ernest Braimoh](https://www.linkedin.com/posts/ernest-braimoh_ai-computervision-machinelearning-activity-7357017049199460352-bmih?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJ5f84BSF16YQBlNnzy86sMhIc99PdU8l0)
+🔗 LinkedIn: [Ernest Braimoh]_(https://www.linkedin.com/posts/ernest-braimoh_ai-computervision-machinelearning-activity-7357017049199460352-bmih?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJ5f84BSF16YQBlNnzy86sMhIc99PdU8l0)
 
-🔗 Youtube: [Ernest Braimoh]()
+🔗 Youtube: [Ernest Braimoh]_()
