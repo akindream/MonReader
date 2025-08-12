@@ -90,4 +90,6 @@ cd monreader
 
 🔗 LinkedIn: [Ernest Braimoh](https://www.linkedin.com/posts/ernest-braimoh_ai-computervision-machinelearning-activity-7357017049199460352-bmih?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJ5f84BSF16YQBlNnzy86sMhIc99PdU8l0)
 
-🔗 Youtube: [Ernest Braimoh]_()
+🔗 Youtube: [Ernest Braimoh](YouTube: https://youtu.be/gogXg0qfU30)
+
+
